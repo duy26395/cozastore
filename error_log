@@ -1,0 +1,80 @@
+[19-Oct-2021 16:39:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:39:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:39:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:40:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:41:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:41:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:42:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:42:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:43:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 16:43:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 17:36:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 15
+[19-Oct-2021 17:37:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 17:40:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:42:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:44:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:45:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:46:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:46:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 12
+[19-Oct-2021 20:54:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14
+[19-Oct-2021 20:54:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home/duy263/public_html/cozastore/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/login.php on line 14

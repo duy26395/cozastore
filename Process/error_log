@@ -1,0 +1,92 @@
+[22-Oct-2021 19:39:26 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 19:42:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 19:44:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 19:44:24 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 19:45:43 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 19:50:39 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 136
+[22-Oct-2021 19:51:53 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 137
+[22-Oct-2021 19:55:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 19:57:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:01:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:05:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:05:47 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:07:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 136
+[22-Oct-2021 20:13:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:15:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:15:26 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:16:06 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:19:38 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 135
+[22-Oct-2021 20:30:33 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 20:30:50 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 20:32:42 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 20:34:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134
+[22-Oct-2021 20:37:21 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/duy263/public_html/cozastore/Process/Login.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/Process/Login.php on line 134

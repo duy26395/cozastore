@@ -1,0 +1,120 @@
+[19-Oct-2021 11:09:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function getValue() on null in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 32
+[19-Oct-2021 11:09:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function getValue() on null in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 32
+[19-Oct-2021 12:17:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('https://duy263....', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 12:17:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('https://duy263....', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 12:17:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('https://duy263....', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 12:17:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('https://duy263....', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:25:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('https://duy263....', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:39:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:40:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:40:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:40:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 13:45:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function getAccessToken() on null in /home/duy263/public_html/cozastore/facebook-Login/logout.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/logout.php on line 11
+[19-Oct-2021 13:47:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function getLogoutUrl() on null in /home/duy263/public_html/cozastore/facebook-Login/logout.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/logout.php on line 12
+[19-Oct-2021 13:49:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function getAccessToken() on null in /home/duy263/public_html/cozastore/facebook-Login/logout.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/logout.php on line 11
+[19-Oct-2021 14:06:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 14:11:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 14:12:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Facebook\Helpers\FacebookRedirectLoginHelper::getLoginUrl() must be of the type array, null given, called in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 53 and defined in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php:140
+Stack trace:
+#0 /home/duy263/public_html/cozastore/facebook-Login/Redirect.php(53): Facebook\Helpers\FacebookRedirectLoginHelper->getLoginUrl('', NULL)
+#1 {main}
+  thrown in /home/duy263/public_html/cozastore/facebookAPI/Helpers/FacebookRedirectLoginHelper.php on line 140
+[19-Oct-2021 15:06:43 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 74
+[19-Oct-2021 15:12:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 76
+[19-Oct-2021 15:13:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 76
+[19-Oct-2021 15:14:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 76
+[19-Oct-2021 15:17:47 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 77
+[19-Oct-2021 15:18:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 77
+[19-Oct-2021 15:18:48 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 76
+[19-Oct-2021 15:19:39 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 76
+[19-Oct-2021 15:22:25 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 78
+[19-Oct-2021 15:23:39 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/duy263/public_html/cozastore/facebook-Login/Redirect.php on line 78
